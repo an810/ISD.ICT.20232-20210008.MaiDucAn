@@ -13,9 +13,9 @@
     12. The AIMS software calls UC “Pay rush order.”\
     13. The AIMS software saves order\
     14. The AIMS software makes the cart empty\
-    15. The AIMS software displays successful order notification\
+    15. The AIMS software displays successful order notification
 
 **Alternative Flow**:\
     1. At Step 5: If the delivery information is not valid -> Notify the customer and ask the customer to input the valid information -> Resume at Step 4\
     2. At Step 6: If there is no support either from any media or the shipping address -> Notify the customer and ask to update the delivery information -> Resume at Step 7\
-    3. At Step 6: If there some media that are not supported (not all) -> Products that do not support rush order will be shipped as normal -> Resume at Step 7\
+    3. At Step 6: If there some media that are not supported (not all) -> Products that do not support rush order will be shipped as normal -> Resume at Step 7
