@@ -1,4 +1,4 @@
-Basic Flow:
+Basic Flow:\
     1. The customer requests to place an order on the view cart screen
     2. The AIMS Software checks the availability of products in the cart
     3. The AIMS Software displays the form of delivery information
